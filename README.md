@@ -1,3 +1,3 @@
 # datasciencecoursera
 Assessment Reposatory
-ls -la
+ls -l
